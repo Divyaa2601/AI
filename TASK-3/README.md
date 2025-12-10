@@ -13,7 +13,7 @@ To develop a machine learning model that predicts **precipitation** based on wea
 
 ## 📊 Dataset Details
 
-- **Source:** Kaggle – WEATHER PREDICTION
+- **Source:** Kaggle – [WEATHER PREDICTION](https://www.kaggle.com/datasets/ananthr1/weather-prediction)
 - **File Format:** CSV
 - **Target Variable:** `precipitation`
 - **Input Features Used:**
