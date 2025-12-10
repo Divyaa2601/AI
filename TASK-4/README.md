@@ -86,8 +86,7 @@ TASK-4/
 3. Install required libraries if not already installed:
    ```bash
    pip install pandas numpy scikit-learn matplotlib
-````
-
+   ````
 4. Run the Python script to train the model, test on sample messages, and view predictions.
 
 ---
