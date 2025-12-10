@@ -14,9 +14,7 @@ To develop a machine learning model that predicts **precipitation** based on wea
 ## 📂 Project Directory
 
 ```
-
 task 3/
-
 ````
 
 All project-related files including the dataset, notebook, and README are stored inside this folder.
@@ -25,7 +23,7 @@ All project-related files including the dataset, notebook, and README are stored
 
 ## 📊 Dataset Details
 
-- **Source:** Kaggle – Weather Dataset
+- **Source:** Kaggle – WEATHER PREDICTION
 - **File Format:** CSV
 - **Target Variable:** `precipitation`
 - **Input Features Used:**
@@ -85,7 +83,7 @@ The model performance is evaluated using the following regression metrics:
 task 3/
 │
 ├── weather_data.csv          # Weather dataset
-├── Weather_Model.ipynb       # Jupyter Notebook containing the code
+├── Weather_Model_Performance.ipynb       # Jupyter Notebook containing the code
 └── README.md                 # Project documentation
 ```
 
@@ -95,7 +93,7 @@ task 3/
 
 1. Open the **task 3** folder.
 2. Ensure that the dataset file (`weather_data.csv`) is present in the folder.
-3. Open the notebook file `Weather_Model.ipynb` using Jupyter Notebook or VS Code.
+3. Open the notebook file `Weather_Model_Performance.ipynb` using Jupyter Notebook or VS Code.
 4. Run each cell sequentially.
 5. Observe the output:
 
@@ -128,6 +126,21 @@ This project successfully demonstrates the use of **Linear Regression** for pred
 
 ---
 
+## 🎓 Learning Outcomes
+
+Through this project, the following concepts were learned:
+
+- Understanding of weather datasets and data preprocessing
+- Application of Linear Regression for prediction tasks
+- Calculation of MAE, MSE, RMSE, and R² Score
+- Visualization of model performance using graphs
+- Interpretation of regression evaluation metrics
+
+---
+
 ## 👩‍💻 Author Information
 
-**Name:** DIVYA  A
+**Name:** Divya A  
+**Course:** B.Tech – Artificial Intelligence and Machine Learning  
+**College:** Bannari Amman Institute of Technology  
+**Academic Year:** 2025–2026
