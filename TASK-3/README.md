@@ -11,16 +11,6 @@ To develop a machine learning model that predicts **precipitation** based on wea
 
 ---
 
-## 📂 Project Directory
-
-```
-task 3/
-````
-
-All project-related files including the dataset, notebook, and README are stored inside this folder.
-
----
-
 ## 📊 Dataset Details
 
 - **Source:** Kaggle – WEATHER PREDICTION
@@ -82,9 +72,9 @@ The model performance is evaluated using the following regression metrics:
 ```
 task 3/
 │
-├── weather_data.csv          # Weather dataset
+├── weather_data.csv                      # Weather dataset
 ├── Weather_Model_Performance.ipynb       # Jupyter Notebook containing the code
-└── README.md                 # Project documentation
+└── README.md                             # Project documentation
 ```
 
 ---
