@@ -11,8 +11,8 @@ This project is inspired by sample neural-network notebooks but uses a **CNN**, 
 
 In this project, you will:
 
-✔ Load the MNIST dataset
-✔ Build a Convolutional Neural Network using PyTorch
+* ✔ Load the MNIST dataset
+* ✔ Build a Convolutional Neural Network using PyTorch
 ✔ Train the model and visualize accuracy & loss curves
 ✔ Predict digits on test images
 ✔ Display results with actual vs. predicted values
