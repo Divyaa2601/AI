@@ -145,6 +145,3 @@ By completing this project, you will:
 **Academic Year:** 2025–2026
 
 ---
-
-
-Just tell me! 💙
