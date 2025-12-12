@@ -1,0 +1,59 @@
+# ---------------------
+# Python
+# ---------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.joblib
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Models
+backend/models/*.pkl
+backend/models/*.joblib
+
+# Dataset
+backend/images/
+backend/temp/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ---------------------
+# FastAPI / Uvicorn
+# ---------------------
+*.sqlite3
+*.db
+*.log
+.DS_Store
+
+# Uploaded temp files
+uploads/
+temp/
+
+# ---------------------
+# Node / React (Frontend)
+# ---------------------
+frontend/node_modules/
+frontend/.parcel-cache/
+frontend/.next/
+frontend/dist/
+frontend/build/
+frontend/.cache/
+
+# Dependency files
+yarn-error.log
+npm-debug.log
+pnpm-debug.log
+
+# Misc
+*.swp
