@@ -23,7 +23,7 @@ The notebook is split into **clean Jupyter cells** for easy execution.
 
 ## 📊 **Dataset Details**
 
-📌 **Dataset Name:** Telco Customer Churn
+📌 **Dataset Name:** Telco Customer Churn  
 📌 **Source:** Kaggle
 🔗 [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
