@@ -81,7 +81,6 @@ CNN is chosen because it performs significantly better than simple fully connect
 │
 ├── digit_cnn_recognition.ipynb        # Main Project Notebook
 ├── README.md                          # Documentation
-└── data/                              # MNIST data (auto-downloaded)
 ```
 
 ---
