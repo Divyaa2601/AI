@@ -91,6 +91,7 @@ CNN is chosen because it performs significantly better than simple fully connect
 During training, the notebook visualizes:
 
 📌 **Training Loss Curve**
+
 📌 **Training Accuracy Curve**
 
 These graphs help understand model learning behavior over epochs.
