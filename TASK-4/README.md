@@ -67,7 +67,7 @@ The project uses the **SMS Spam Collection Dataset** from Kaggle.
 
 ---
 
-## 📁 File Structure (TASK-4 Folder)
+## 📁 File Structure 
 ```
 
 TASK-4/
