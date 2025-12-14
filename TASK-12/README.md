@@ -58,9 +58,11 @@ The model is built using **LSTM networks** and helps the decoder focus on releva
 ## 📁 File Structure
 ```
 
-📦 TASK-12
-┣ 📓 english_tamil_translation_attention.ipynb
-┗ 📄 README.md
+TASK-12/
+│
+├── english_tamil_translation_attention.ipynb      # Main Python code
+├── README.md                                      # Project documentation 
+
 
 ```
 
