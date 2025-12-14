@@ -1,28 +1,25 @@
-## *Attention Is All You Need* 
+Attention Is All You Need
 
-1. *Attention Is All You Need* is a research paper published in **2017** by **Vaswani and his team at Google**.
-2. The paper introduces a new model called the **Transformer**.
-3. The Transformer is mainly used for **language translation and other sequence tasks**.
-4. Earlier models used **RNNs** to handle sequences, but the Transformer does **not use RNNs**.
-5. It also does **not use CNNs** for sequence processing.
-6. The main idea of the paper is that **attention alone is enough** to understand sequences.
-7. The Transformer uses a technique called **self-attention**.
-8. Self-attention helps the model understand how words in a sentence are related to each other.
-9. It can easily learn **long-distance relationships** between words.
-10. The Transformer has two main parts: an **encoder** and a **decoder**.
-11. The **encoder** reads the input sentence and understands its meaning.
-12. The **decoder** produces the output sentence step by step.
-13. Each layer of the model contains **attention layers** and **feed-forward neural networks**.
-14. The model uses **multi-head attention** to focus on different parts of the sentence at the same time.
-15. To make attention calculations stable, **scaled dot-product attention** is used.
-16. Since the model has no order by default, **positional encoding** is added to show word order.
-17. Positional encoding helps the model know which word comes first or later.
-18. The Transformer can process many words **at the same time**, unlike RNNs.
-19. This makes training **faster and more efficient**.
-20. The Transformer gave better results in **machine translation** tasks.
-21. Many modern models like **BERT**, **GPT**, and **T5** are based on this architecture.
-22. Today, Transformers are widely used in **chatbots, translation, and text generation**.
-23. The paper changed how **Natural Language Processing (NLP)** models are built.
-24. *Attention Is All You Need* is one of the **most important papers in AI and NLP**.
-
----
+Attention Is All You Need is a research paper published in 2017 by Vaswani and his team at Google.
+The paper introduces a new model called the Transformer.
+The Transformer is mainly used for language translation and other sequence tasks.
+Earlier models used RNNs to handle sequences, but the Transformer does not use RNNs.
+It also does not use CNNs for sequence processing.
+The main idea of the paper is that attention alone is enough to understand sequences.
+The Transformer uses a technique called self-attention.
+Self-attention helps the model understand how words in a sentence are related to each other.
+It can easily learn long-distance relationships between words.
+The Transformer has two main parts: an encoder and a decoder.
+The encoder reads the input sentence and understands its meaning.
+The decoder produces the output sentence step by step.
+Each layer of the model contains attention layers and feed-forward neural networks.
+The model uses multi-head attention to focus on different parts of the sentence at the same time.
+To make attention calculations stable, scaled dot-product attention is used.
+Since the model has no order by default, positional encoding is added to show word order.
+Positional encoding helps the model know which word comes first or later.
+The Transformer can process many words at the same time, unlike RNNs.
+This makes training faster and more efficient.
+The Transformer gave better results in machine translation tasks.
+Many modern models like BERT, GPT, and T5 are based on this architecture.
+Today, Transformers are widely used in chatbots, translation, and text generation.
+The paper changed how Natural Language Processing (NLP) models are built.
