@@ -77,7 +77,7 @@ CNN is chosen because it performs significantly better than simple fully connect
 ## 📁 **Project Structure**
 
 ```
-📦 TASK-8 Handwritten Digit Recognition (NN)
+📦 TASK-8 
 │
 ├── digit_cnn_recognition.ipynb        # Main Project Notebook
 ├── README.md                          # Documentation
