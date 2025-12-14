@@ -62,7 +62,6 @@ TASK-12/
 │
 ├── english_tamil_translation_attention.ipynb      # Main Python code
 ├── README.md                                      # Project documentation 
-
 ```
 
 ---
