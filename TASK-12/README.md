@@ -63,7 +63,6 @@ TASK-12/
 ├── english_tamil_translation_attention.ipynb      # Main Python code
 ├── README.md                                      # Project documentation 
 
-
 ```
 
 ---
@@ -82,7 +81,6 @@ TASK-12/
 
 English : i like coffee
 Tamil   : எனக்கு காபி பிடிக்கும்
-
 ```
 
 ---
