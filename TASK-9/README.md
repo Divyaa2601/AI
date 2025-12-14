@@ -73,13 +73,12 @@ The MNIST dataset is loaded directly using TensorFlow Keras.
 ## 📁 File Structure
 ```
 
-📦 MobileNet-MNIST
-┣ 📜 mobilenet_mnist_multiclass.py
-┣ 📜 README.md
+📦 TASK-9
+│
+├── mobilenet_mnist_multiclass.ipynb        # Main Project Notebook
+├── README.md                               # Documentation
 
 ```
-
-*(If using Jupyter Notebook, `.ipynb` file can be used instead of `.py`)*
 
 ---
 
