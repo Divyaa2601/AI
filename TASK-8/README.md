@@ -132,9 +132,6 @@ With additional improvements like dropout, batch normalization, or deeper networ
 
 ## 👩‍💻 **Author Information**
 
-* **Name:** Divya A
-* **Course:** B.Tech Artificial Intelligence & Machine Learning
-* **College:** Bannari Amman Institute of Technology
-* **Academic Year:** 2025–2026
+ Divya A
 
 ---
